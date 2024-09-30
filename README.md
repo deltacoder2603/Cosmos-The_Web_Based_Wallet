@@ -1,10 +1,10 @@
-Project Name: Cosmos Wallet
+#Project Name: Cosmos Wallet
 
-Description
+#Description
 
 A web-based wallet application for managing Ethereum and Solana accounts. Cosmos Wallet provides a user-friendly interface for generating new wallets, viewing wallet information, and securely storing private keys.
 
-Features
+#Features
 
 Wallet Generation:
 Generates secure seed phrases for both Ethereum and Solana wallets.
@@ -19,16 +19,16 @@ Visual Appeal:
 Utilizes a background video for a dynamic and engaging user experience.
 Responsiveness:
 Designed to adapt to different screen sizes and devices (consider implementing a responsive design library for optimal performance).
-Installation
+#Installation
 
 Clone this repository: git clone https://github.com/your-username/cosmos-wallet.git
 Navigate to the project directory: cd cosmos-wallet
 Install dependencies: npm install
-Usage
+#Usage
 
 Start the development server: npm start
 Open http://localhost:3000 (or the port specified in package.json) in your browser.
-Dependencies
+#Dependencies
 
 react: The core React library for building user interfaces.
 react-dom: Renders React components in the browser. (Included with react)
@@ -36,7 +36,7 @@ bip39: Generates secure seed phrases (for Ethereum).
 @solana/web3.js: Interacts with the Solana blockchain (for Solana).
 bs58: Encodes and decodes base58 strings (for Solana private key handling).
 (Optional) A responsive design library (e.g., Bootstrap, Tailwind CSS) to enhance user experience across devices.
-Development
+#Development
 
 The source code for the React components is located in the src directory. Feel free to modify or extend the components according to your requirements. To make changes:
 
@@ -47,17 +47,7 @@ Testing
 
 While this example doesn't include specific test files, consider implementing a testing framework like Jest to ensure the functionality of your components. This will help you maintain a high level of code quality and catch potential issues early on.
 
-License
-
-(Specify the license you want to use, e.g., MIT, Apache-2.0)
-
-Contributing
-
-We welcome contributions to this project! Please create a pull request to share your improvements.
-
-Acknowledgments
-
-(If applicable, acknowledge any third-party libraries or resources used)
+#Acknowledgments
 
 This README file provides a detailed structure for your project's documentation. Feel free to customize it further with additional sections or information as needed.
 

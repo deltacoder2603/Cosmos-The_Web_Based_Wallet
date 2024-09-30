@@ -1,4 +1,4 @@
-#Project Name: Cosmos Wallet
+||Project Name: Cosmos Wallet||
 
 #Description
 

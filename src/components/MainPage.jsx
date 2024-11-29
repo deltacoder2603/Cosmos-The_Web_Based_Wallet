@@ -14,7 +14,7 @@ const MainPage = ({ videoSrc }) => {
     }
 
     return (
-        <div className="relative min-h-screen bg-black overflow-hidden">
+        <div className="relative min-h-screen overflow-hidden">
             <video
                 className="absolute top-0 left-0 w-full h-full object-cover"
                 autoPlay

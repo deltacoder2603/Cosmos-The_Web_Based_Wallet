@@ -1,5 +1,7 @@
 ||Project Name: Cosmos Wallet||
 
+To see a demo of the website you can see via https://www.youtube.com/watch?v=2bJpkrKmBs4
+
 #Description
 
 A web-based wallet application for managing Ethereum and Solana accounts. Cosmos Wallet provides a user-friendly interface for generating new wallets, viewing wallet information, and securely storing private keys.
@@ -51,5 +53,5 @@ While this example doesn't include specific test files, consider implementing a 
 
 This README file provides a detailed structure for your project's documentation. Feel free to customize it further with additional sections or information as needed.
 
-To see a demo of the website you can see via https://www.youtube.com/watch?v=2bJpkrKmBs4
+
 
